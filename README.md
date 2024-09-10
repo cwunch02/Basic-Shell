@@ -1,6 +1,6 @@
 # Basic Shell
 This project is a basic shell within the xv6 kernel. It has the capability to do most basic commands, as well as including piping and IO redirection.
-The shell also has error catching and will output to the user if a command is invalid. This was one of the last projects of my Operating Systems class.
+The shell also has error catching and will output to the user if a command is invalid. This was one of the last projects of my Operating Systems class. This can be run in the QEMU xv6 editor and does not come with test cases, so play around with the shell yourself! When in QEMU, simply type tsh in order to run it.
 
 
 
